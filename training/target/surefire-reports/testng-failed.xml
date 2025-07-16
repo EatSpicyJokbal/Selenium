@@ -3,13 +3,15 @@
 <suite name="Failed suite [Surefire suite]" verbose="0">
   <test thread-count="5" name="Surefire test(failed)" verbose="0">
     <classes>
-      <class name="Part2.testLogin.LoginTest">
+      <class name="Part3.test.part4.screenshot.CaptureFailedScreenshotTest">
         <methods>
+          <include name="takeFailedResultScreenshot"/>
           <include name="setUp"/>
+          <include name="testClickingSubmitButtonWithoutJavaScriptExecutor"/>
           <include name="quitTest"/>
-          <include name="testLoginErrorMessage"/>
+          <include name="loadApplication"/>
         </methods>
-      </class> <!-- Part2.testLogin.LoginTest -->
+      </class> <!-- Part3.test.part4.screenshot.CaptureFailedScreenshotTest -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->
