@@ -13,5 +13,6 @@ public class FormsPage extends HomePage {
         scrollToElementJS(practiceFormMenuItem);
         click(practiceFormMenuItem);
         return new PracticeFormPage();
+        
     }
 }
