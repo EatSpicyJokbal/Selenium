@@ -9,6 +9,7 @@ import static utilities.JavaScriptUtility.scrollToElementJS;
 public class AlertFrameAndWindowsPage extends HomePage {
     private final By modalDialogs = By.xpath("//li[@id='item-4']/span[text()='Modal Dialogs']");
     private final By alertsCard = By.xpath("//li[@id='item-1']/span[text()='Alerts']");
+    private final By framesPage = By.xpath("//li[@id='item-2']/span[text()='Frames']");
 
     public ModalDialogsPage clickModalDialogs() {
         scrollToElementJS(modalDialogs);
@@ -20,6 +21,12 @@ public class AlertFrameAndWindowsPage extends HomePage {
         scrollToElementJS(alertsCard);
         click(alertsCard);
         return new AlertsPage();
+    }
+
+    public FramesPage clickFramesPage() {
+        scrollToElementJS(framesPage);
+        click(framesPage);
+        return new FramesPage();
     }
 
 }

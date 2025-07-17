@@ -1,4 +1,8 @@
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\base\BasePage.java
+C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\alerstframeandwindows\AlertFrameAndWindowsPage.java
+C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\alerstframeandwindows\AlertsPage.java
+C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\alerstframeandwindows\FramesPage.java
+C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\alerstframeandwindows\ModalDialogsPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\elements\ElementsPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\elements\LinksPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\elements\WebTablesPage.java
@@ -13,4 +17,5 @@ C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\s
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\saucedemo\ProductsPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\utilities\DropdownUtility.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\utilities\JavaScriptUtility.java
+C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\utilities\SwitchToUtility.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\utilities\Utility.java

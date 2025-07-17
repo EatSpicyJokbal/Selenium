@@ -2,39 +2,39 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-16T13:07:43 GMT+08:00" name="Surefire suite" finished-at="2025-07-16T13:07:58 GMT+08:00" duration-ms="15443">
+  <suite started-at="2025-07-17T14:31:15 GMT+08:00" name="Surefire suite" finished-at="2025-07-17T14:31:33 GMT+08:00" duration-ms="18063">
     <groups>
     </groups>
-    <test started-at="2025-07-16T13:07:43 GMT+08:00" name="Surefire test" finished-at="2025-07-16T13:07:58 GMT+08:00" duration-ms="15443">
-      <class name="Part3.test.part4.screenshot.CaptureFailedScreenshotTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:Part3.test.part4.screenshot.CaptureFailedScreenshotTest@3d680b5a]" started-at="2025-07-16T13:07:43 GMT+08:00" name="setUp" finished-at="2025-07-16T13:07:46 GMT+08:00" duration-ms="2910" status="PASS">
+    <test started-at="2025-07-17T14:31:15 GMT+08:00" name="Surefire test" finished-at="2025-07-17T14:31:33 GMT+08:00" duration-ms="18063">
+      <class name="Part3.test.part4.frames.testFrames">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Part3.test.part4.frames.testFrames@4b5d6a01]" started-at="2025-07-17T14:31:15 GMT+08:00" name="setUp" finished-at="2025-07-17T14:31:17 GMT+08:00" duration-ms="2715" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="loadApplication()[pri:0, instance:Part3.test.part4.screenshot.CaptureFailedScreenshotTest@3d680b5a]" started-at="2025-07-16T13:07:46 GMT+08:00" name="loadApplication" finished-at="2025-07-16T13:07:54 GMT+08:00" duration-ms="7874" status="PASS">
+        <test-method is-config="true" signature="loadApplication()[pri:0, instance:Part3.test.part4.frames.testFrames@4b5d6a01]" started-at="2025-07-17T14:31:17 GMT+08:00" name="loadApplication" finished-at="2025-07-17T14:31:26 GMT+08:00" duration-ms="8660" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadApplication -->
-        <test-method signature="testClickingSubmitButtonWithoutJavaScriptExecutor()[pri:0, instance:Part3.test.part4.screenshot.CaptureFailedScreenshotTest@3d680b5a]" started-at="2025-07-16T13:07:54 GMT+08:00" name="testClickingSubmitButtonWithoutJavaScriptExecutor" finished-at="2025-07-16T13:07:54 GMT+08:00" duration-ms="560" status="PASS">
+        <test-method signature="testFramesSmallBox()[pri:0, instance:Part3.test.part4.frames.testFrames@4b5d6a01]" started-at="2025-07-17T14:31:26 GMT+08:00" name="testFramesSmallBox" finished-at="2025-07-17T14:31:29 GMT+08:00" duration-ms="2608" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testClickingSubmitButtonWithoutJavaScriptExecutor -->
-        <test-method is-config="true" signature="takeFailedResultScreenshot(org.testng.ITestResult)[pri:0, instance:Part3.test.part4.screenshot.CaptureFailedScreenshotTest@3d680b5a]" started-at="2025-07-16T13:07:54 GMT+08:00" name="takeFailedResultScreenshot" finished-at="2025-07-16T13:07:54 GMT+08:00" duration-ms="6" status="PASS">
+        </test-method> <!-- testFramesSmallBox -->
+        <test-method is-config="true" signature="takeFailedResultScreenshot(org.testng.ITestResult)[pri:0, instance:Part3.test.part4.frames.testFrames@4b5d6a01]" started-at="2025-07-17T14:31:29 GMT+08:00" name="takeFailedResultScreenshot" finished-at="2025-07-17T14:31:29 GMT+08:00" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=testClickingSubmitButtonWithoutJavaScriptExecutor status=SUCCESS method=CaptureFailedScreenshotTest.testClickingSubmitButtonWithoutJavaScriptExecutor()[pri:0, instance:Part3.test.part4.screenshot.CaptureFailedScreenshotTest@3d680b5a] output={null}]]]>
+                <![CDATA[[TestResult name=testFramesSmallBox status=SUCCESS method=testFrames.testFramesSmallBox()[pri:0, instance:Part3.test.part4.frames.testFrames@4b5d6a01] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeFailedResultScreenshot -->
-        <test-method is-config="true" signature="quitTest()[pri:0, instance:Part3.test.part4.screenshot.CaptureFailedScreenshotTest@3d680b5a]" started-at="2025-07-16T13:07:54 GMT+08:00" name="quitTest" finished-at="2025-07-16T13:07:58 GMT+08:00" duration-ms="4043" status="PASS">
+        <test-method is-config="true" signature="quitTest()[pri:0, instance:Part3.test.part4.frames.testFrames@4b5d6a01]" started-at="2025-07-17T14:31:29 GMT+08:00" name="quitTest" finished-at="2025-07-17T14:31:33 GMT+08:00" duration-ms="4018" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitTest -->
-      </class> <!-- Part3.test.part4.screenshot.CaptureFailedScreenshotTest -->
+      </class> <!-- Part3.test.part4.frames.testFrames -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
 </testng-results>
