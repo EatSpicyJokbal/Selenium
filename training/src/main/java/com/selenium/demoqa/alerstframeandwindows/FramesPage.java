@@ -11,6 +11,7 @@ public class FramesPage extends AlertFrameAndWindowsPage {
     private final By textInFrame = By.id("sampleHeading");
     private final String iFrameBigBox = "frame1";
     private final By headerTextFrame = By.xpath("//div[@id='app']//h1[text()='Frames']");
+    private final By iFrameSmallBox = By.xpath("//div[@id='frame2Wrapper']/iframe");
 
     public String getHeaderText() {
         return find(headerTextFrame).getText();
@@ -28,7 +29,7 @@ public class FramesPage extends AlertFrameAndWindowsPage {
 
     public String getTextInSmallFrame() {
         delay(2000);
-        switchFrame(3);
+        switchFrame(find(iFrameSmallBox));
         scrollToElementJS(textInFrame);
         String smallFrameText = find(textInFrame).getText();
         System.out.println("Small Frame Text: " + smallFrameText);

@@ -43,4 +43,8 @@ public class SwitchToUtility extends Utility {
     public static void switchToDefaultFrame() {
         switchTo().defaultContent();
     }
+
+    public static void switchToWindow(String windowHandle) {
+        switchTo().window(windowHandle);
+    }
 }
