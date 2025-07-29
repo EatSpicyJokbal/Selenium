@@ -3,7 +3,6 @@ package com.selenium.demoqa.elements;
 import org.openqa.selenium.By;
 
 import com.selenium.demoqa.HomePage;
-import com.selenium.sample.TextBoxPage;
 
 import static utilities.JavaScriptUtility.scrollToElementJS;
 

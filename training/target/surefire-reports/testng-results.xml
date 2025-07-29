@@ -2,39 +2,39 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-28T08:26:24 GMT+08:00" name="Surefire suite" finished-at="2025-07-28T08:27:01 GMT+08:00" duration-ms="37394">
+  <suite started-at="2025-07-28T10:56:19 GMT+08:00" name="Surefire suite" finished-at="2025-07-28T10:56:52 GMT+08:00" duration-ms="33606">
     <groups>
     </groups>
-    <test started-at="2025-07-28T08:26:24 GMT+08:00" name="Surefire test" finished-at="2025-07-28T08:27:01 GMT+08:00" duration-ms="37394">
-      <class name="Part3.test.part4.window.WindowTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:Part3.test.part4.window.WindowTest@3d680b5a]" started-at="2025-07-28T08:26:24 GMT+08:00" name="setUp" finished-at="2025-07-28T08:26:48 GMT+08:00" duration-ms="24416" status="PASS">
+    <test started-at="2025-07-28T10:56:19 GMT+08:00" name="Surefire test" finished-at="2025-07-28T10:56:52 GMT+08:00" duration-ms="33606">
+      <class name="Part3.test.part4.dynamic_wait.DynamicWaitTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Part3.test.part4.dynamic_wait.DynamicWaitTest@3c419631]" started-at="2025-07-28T10:56:19 GMT+08:00" name="setUp" finished-at="2025-07-28T10:56:25 GMT+08:00" duration-ms="6546" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="loadApplication()[pri:0, instance:Part3.test.part4.window.WindowTest@3d680b5a]" started-at="2025-07-28T08:26:48 GMT+08:00" name="loadApplication" finished-at="2025-07-28T08:26:49 GMT+08:00" duration-ms="730" status="PASS">
+        <test-method is-config="true" signature="loadApplication()[pri:0, instance:Part3.test.part4.dynamic_wait.DynamicWaitTest@3c419631]" started-at="2025-07-28T10:56:25 GMT+08:00" name="loadApplication" finished-at="2025-07-28T10:56:38 GMT+08:00" duration-ms="12422" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadApplication -->
-        <test-method signature="testNewWindow()[pri:0, instance:Part3.test.part4.window.WindowTest@3d680b5a]" started-at="2025-07-28T08:26:49 GMT+08:00" name="testNewWindow" finished-at="2025-07-28T08:26:56 GMT+08:00" duration-ms="7407" status="PASS">
+        <test-method signature="testProgressBar()[pri:0, instance:Part3.test.part4.dynamic_wait.DynamicWaitTest@3c419631]" started-at="2025-07-28T10:56:38 GMT+08:00" name="testProgressBar" finished-at="2025-07-28T10:56:48 GMT+08:00" duration-ms="10604" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testNewWindow -->
-        <test-method is-config="true" signature="takeFailedResultScreenshot(org.testng.ITestResult)[pri:0, instance:Part3.test.part4.window.WindowTest@3d680b5a]" started-at="2025-07-28T08:26:56 GMT+08:00" name="takeFailedResultScreenshot" finished-at="2025-07-28T08:26:56 GMT+08:00" duration-ms="3" status="PASS">
+        </test-method> <!-- testProgressBar -->
+        <test-method is-config="true" signature="takeFailedResultScreenshot(org.testng.ITestResult)[pri:0, instance:Part3.test.part4.dynamic_wait.DynamicWaitTest@3c419631]" started-at="2025-07-28T10:56:48 GMT+08:00" name="takeFailedResultScreenshot" finished-at="2025-07-28T10:56:48 GMT+08:00" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=testNewWindow status=SUCCESS method=WindowTest.testNewWindow()[pri:0, instance:Part3.test.part4.window.WindowTest@3d680b5a] output={null}]]]>
+                <![CDATA[[TestResult name=testProgressBar status=SUCCESS method=DynamicWaitTest.testProgressBar()[pri:0, instance:Part3.test.part4.dynamic_wait.DynamicWaitTest@3c419631] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeFailedResultScreenshot -->
-        <test-method is-config="true" signature="quitTest()[pri:0, instance:Part3.test.part4.window.WindowTest@3d680b5a]" started-at="2025-07-28T08:26:56 GMT+08:00" name="quitTest" finished-at="2025-07-28T08:27:01 GMT+08:00" duration-ms="4790" status="PASS">
+        <test-method is-config="true" signature="quitTest()[pri:0, instance:Part3.test.part4.dynamic_wait.DynamicWaitTest@3c419631]" started-at="2025-07-28T10:56:48 GMT+08:00" name="quitTest" finished-at="2025-07-28T10:56:52 GMT+08:00" duration-ms="3980" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitTest -->
-      </class> <!-- Part3.test.part4.window.WindowTest -->
+      </class> <!-- Part3.test.part4.dynamic_wait.DynamicWaitTest -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
 </testng-results>

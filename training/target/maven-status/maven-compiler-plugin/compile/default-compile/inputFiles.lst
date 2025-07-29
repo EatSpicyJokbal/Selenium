@@ -4,12 +4,14 @@ C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\d
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\alerstframeandwindows\BrowserWindowsPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\alerstframeandwindows\FramesPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\alerstframeandwindows\ModalDialogsPage.java
+C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\elements\DynamicPropertiesPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\elements\ElementsPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\elements\LinksPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\elements\WebTablesPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\forms\FormsPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\forms\PracticeFormPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\HomePage.java
+C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\widgets\ProgressBarPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\widgets\SelectDatePickerPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\widgets\SelectMenuPage.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\com\selenium\demoqa\widgets\WidgetsPage.java
@@ -21,3 +23,4 @@ C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\utilities\GetU
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\utilities\JavaScriptUtility.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\utilities\SwitchToUtility.java
 C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\utilities\Utility.java
+C:\Users\jtagle\Documents\VS Code\Selenium\training\src\main\java\utilities\WaitUtility.java
